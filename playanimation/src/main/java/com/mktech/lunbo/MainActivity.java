@@ -35,18 +35,18 @@ public class MainActivity extends Activity {
         ArrayList<String> urlList = new ArrayList<>();
 
         /**添加数据*/
-        urlList.add("http://attach.bbs.miui.com/forum/month_1012/101203122706c89249c8f58fcc.jpg");
-        urlList.add("http://bbsdown10.cnmo.com/attachments/201308/06/091441rn5ww131m0gj55r0.jpg");
+        urlList.add("http://pic.sc.chinaz.com/files/pic/pic9/201703/bpic685.jpg");
+        urlList.add("https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1491489054326&di=a0048b47c63a386e2820bc7ed2083000&imgtype=0&src=http%3A%2F%2Fimg01.taopic.com%2F141120%2F235109-1411200RZ118.jpg");
 //        urlList.add("http://kuoo8.com/wall_up/hsf2288/200801/2008012919460743597.jpg");
-        urlList.add("http://attach.bbs.miui.com/forum/201604/05/001754vp6j0vmcj49f0evc.jpg.thumb.jpg");
-        urlList.add("http://d.3987.com/taiqiumein_141001/007.jpg");
-        urlList.add("http://attach.bbs.miui.com/forum/201604/05/100838d2b99k6ihk32a36a.jpg.thumb.jpg");
+        urlList.add("https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1491489112002&di=950d9f7d59bbb54161e8d53d1b9bc3f4&imgtype=0&src=http%3A%2F%2Fimg1.3lian.com%2F2015%2Fa1%2F1%2Fd%2F160.jpg");
+        urlList.add("https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1491489172386&di=de8b3e47b52377fa5b5eae40c69e4996&imgtype=0&src=http%3A%2F%2Fimg1.qunarzz.com%2Ftravel%2Fd2%2F1508%2F20%2Ffe351ebdb1b464.jpg");
+        urlList.add("https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1491489426822&di=d4441b33d08b4bc3317437cb7d908b39&imgtype=0&src=http%3A%2F%2Fe.hiphotos.baidu.com%2Fnuomi%2Fwh%3D470%2C285%2Fsign%3Db0665bcf09d162d985bb6a1826ef85de%2F7c1ed21b0ef41bd51f00fdff52da81cb39db3d6d.jpg");
 
-        imageDescList.add("小仓柚子");
-        imageDescList.add("抚媚妖娆性感美女");
-        imageDescList.add("热血沸腾 比基尼");
-        imageDescList.add(" 台球美女");
-        imageDescList.add("身材妙曼");
+        imageDescList.add("野果");
+        imageDescList.add("排骨");
+        imageDescList.add("冰淇淋");
+        imageDescList.add("甜品");
+        imageDescList.add("牛肉面");
         initCarsuelView(imageDescList, urlList);
     }
 
